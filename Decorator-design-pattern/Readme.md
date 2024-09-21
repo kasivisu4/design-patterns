@@ -36,7 +36,8 @@ The `DecoratorClass` is an implementation of the Decorator Pattern that adds add
 	
 	Integration:
 	
-	The `DecoratorClass` works in conjunction with a base pizza component (e.g., `BasicPizza`). By wrapping the base 	pizza with decorators for each ingredient, users can create a customized pizza with the desired toppings.
+	The `DecoratorClass` works in conjunction with a base pizza component (e.g., `BasicPizza`). By wrapping the base
+ 	pizza with decorators for each ingredient, users can create a customized pizza with the desired toppings.
 
 ## Benefits
 Flexibility: You can add new functionality to objects without changing their structure.
